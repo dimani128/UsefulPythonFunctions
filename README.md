@@ -4,4 +4,4 @@
 Compilation of useful python functions.
 ## Usage/Examples
 
-Examples in 
+Examples in [examples](examples)
