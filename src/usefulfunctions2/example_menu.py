@@ -1,5 +1,5 @@
 
-from funcs import menu
+from func_menu import menu
 
 match menu("Choose a menu", ['Hi', 'hello', 'tuples']):
     case 0:
