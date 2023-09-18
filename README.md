@@ -22,3 +22,7 @@ Compilation of useful python functions.
  - Added changelog
  - Added menu function
  - Separated functions into different files
+
+## Credits
+ - cls:
+   - [https://stackoverflow.com/questions/517970/how-to-clear-the-interpreter-console](https://stackoverflow.com/questions/517970/how-to-clear-the-interpreter-console#:~:text=here%20something%20handy%20that%20is%20a%20little%20more%20cross%2Dplatform)
