@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "usefulfunctions2"
+version = "0.2.0"
+authors = [
+  { name="dimani128", email="dimani128.github@gmail.com" },
+]
+description = "A compilation of useful python functions."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/dimani128/UsefulPythonFunctions"
+"Bug Tracker" = "https://github.com/dimani128/UsefulPythonFunctions/issues"

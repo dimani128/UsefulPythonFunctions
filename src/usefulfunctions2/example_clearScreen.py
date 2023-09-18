@@ -1,6 +1,6 @@
 
 from time import sleep
-from funcs import cls
+from func_cls import cls
 
 print("This text will dissapear in 2s.")
 sleep(2)
